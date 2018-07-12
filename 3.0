@@ -1,4 +1,5 @@
-´´´ java
+```
+java
 
 //A variavel "int i" já nao faz sentido colocar já que sempre vai ser 0 na posição inicial.
 package Proyecto1;
@@ -57,4 +58,4 @@ public class SistemasOp {
 		}
 	}
 }
-´´´
+```
